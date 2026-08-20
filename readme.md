@@ -14,3 +14,4 @@
 # masala-dosa
 * dosa batter
 * oil
+* aloo masala
