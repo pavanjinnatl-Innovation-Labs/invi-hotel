@@ -13,6 +13,7 @@
 
 ## butter dose
 * dose batter
+<<<<<<< HEAD
 * butter
 * tomota paste
 * banana added
@@ -21,3 +22,6 @@
 ## neyyikaram-dose
 * dosa batter
 * ghee
+=======
+* butter
+>>>>>>> 20d0871 (butter added)
