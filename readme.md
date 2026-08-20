@@ -15,3 +15,4 @@
 * dose batter
 * butter
 * tomota paste
+* garlic
