@@ -16,3 +16,4 @@
 * butter
 * tomota paste
 * garlic
+* banana added
