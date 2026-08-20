@@ -12,3 +12,5 @@
 * eggs added
 
 ## butter dose
+* dose batter
+* butter
