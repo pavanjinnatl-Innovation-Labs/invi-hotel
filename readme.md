@@ -15,5 +15,5 @@
 * dose batter
 * butter
 * tomota paste
-* garlic
 * banana added
+* butter
